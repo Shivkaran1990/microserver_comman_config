@@ -1,6 +1,3 @@
-spring: 
-  application:
-        name: Dev-Config-Default
 eureka:
   instance:
     prefer-id-address: true
